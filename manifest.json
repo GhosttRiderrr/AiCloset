@@ -1,0 +1,16 @@
+{
+  "short_name": "StyleGen",
+  "name": "Style Prompt Creator",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/ios-filled/512/suit.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7f9",
+  "theme_color": "#2c3e50"
+}
